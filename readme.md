@@ -9,7 +9,8 @@ This repository contains a microservices-based web application with:
 -  **Nginx** reverse proxy
 -  Dockerized and orchestrated using **Docker Compose**  
 
-![image](https://github.com/user-attachments/assets/f72264b9-6e67-4035-8552-34a442075119)
+![image](https://github.com/user-attachments/assets/8a639df1-7225-4bab-aa24-f9cdd9ea1789)
+
 
 
 ---
