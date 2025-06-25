@@ -7,7 +7,10 @@ This repository contains a microservices-based web application with:
 -  A **Go** service (Service 1)
 -  A **Python Flask** service (Service 2)
 -  **Nginx** reverse proxy
--  Dockerized and orchestrated using **Docker Compose**
+-  Dockerized and orchestrated using **Docker Compose**  
+
+![image](https://github.com/user-attachments/assets/f72264b9-6e67-4035-8552-34a442075119)
+
 
 ---
 
